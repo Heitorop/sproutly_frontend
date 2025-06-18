@@ -1,1 +1,0 @@
-# sproutly_frontend
